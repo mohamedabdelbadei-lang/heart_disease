@@ -1,0 +1,7 @@
+# Python environment files
+venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Operating system files
+.DS_Store
